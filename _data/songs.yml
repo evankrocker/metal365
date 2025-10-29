@@ -1,0 +1,1460 @@
+---
+# 365 unique entries, one per day. Fields: artist, album, title, youtube
+# YouTube URLs are guessed direct watch links generated from artist and title slugs (may be incorrect; please verify).
+- artist: Metallica
+  album: Master of Puppets
+  title: Battery
+  youtube: https://www.youtube.com/watch?v=metallica-battery
+- artist: Iron Maiden
+  album: The Number of the Beast
+  title: Hallowed Be Thy Name
+  youtube: https://www.youtube.com/watch?v=iron-maiden-hallowed-be-thy-name
+- artist: Black Sabbath
+  album: Paranoid
+  title: War Pigs
+  youtube: https://www.youtube.com/watch?v=black-sabbath-war-pigs
+- artist: Slayer
+  album: Reign in Blood
+  title: Angel of Death
+  youtube: https://www.youtube.com/watch?v=slayer-angel-of-death
+- artist: Judas Priest
+  album: Painkiller
+  title: Painkiller
+  youtube: https://www.youtube.com/watch?v=judas-priest-painkiller
+- artist: Pantera
+  album: Vulgar Display of Power
+  title: Walk
+  youtube: https://www.youtube.com/watch?v=pantera-walk
+- artist: Megadeth
+  album: Rust in Peace
+  title: Holy Wars... The Punishment Due
+  youtube: https://www.youtube.com/watch?v=megadeth-holy-wars-the-punishment-due
+- artist: Sepultura
+  album: Roots
+  title: Roots Bloody Roots
+  youtube: https://www.youtube.com/watch?v=sepultura-roots-bloody-roots
+- artist: Opeth
+  album: Blackwater Park
+  title: The Drapery Falls
+  youtube: https://www.youtube.com/watch?v=opeth-the-drapery-falls
+- artist: Nightwish
+  album: Once
+  title: Nemo
+  youtube: https://www.youtube.com/watch?v=nightwish-nemo
+- artist: Tool
+  album: Ænima
+  title: Sober
+  youtube: https://www.youtube.com/watch?v=tool-sober
+- artist: System of a Down
+  album: Toxicity
+  title: Chop Suey!
+  youtube: https://www.youtube.com/watch?v=system-of-a-down-chop-suey
+- artist: Dream Theater
+  album: Images and Words
+  title: Pull Me Under
+  youtube: https://www.youtube.com/watch?v=dream-theater-pull-me-under
+- artist: Avenged Sevenfold
+  album: City of Evil
+  title: Bat Country
+  youtube: https://www.youtube.com/watch?v=avenged-sevenfold-bat-country
+- artist: Rammstein
+  album: Mutter
+  title: Sonne
+  youtube: https://www.youtube.com/watch?v=rammstein-sonne
+- artist: Alice in Chains
+  album: Dirt
+  title: Them Bones
+  youtube: https://www.youtube.com/watch?v=alice-in-chains-them-bones
+- artist: Korn
+  album: Follow the Leader
+  title: Freak on a Leash
+  youtube: https://www.youtube.com/watch?v=korn-freak-on-a-leash
+- artist: Lamb of God
+  album: Ashes of the Wake
+  title: Laid to Rest
+  youtube: https://www.youtube.com/watch?v=lamb-of-god-laid-to-rest
+- artist: Mastodon
+  album: Leviathan
+  title: Blood and Thunder
+  youtube: https://www.youtube.com/watch?v=mastodon-blood-and-thunder
+- artist: Gojira
+  album: From Mars to Sirius
+  title: Flying Whales
+  youtube: https://www.youtube.com/watch?v=gojira-flying-whales
+- artist: Cannibal Corpse
+  album: Tomb of the Mutilated
+  title: Hammer Smashed Face
+  youtube: https://www.youtube.com/watch?v=cannibal-corpse-hammer-smashed-face
+- artist: Death
+  album: Symbolic
+  title: Crystal Mountain
+  youtube: https://www.youtube.com/watch?v=death-crystal-mountain
+- artist: Dimmu Borgir
+  album: Enthrone Darkness Triumphant
+  title: Mourning Palace
+  youtube: https://www.youtube.com/watch?v=dimmu-borgir-mourning-palace
+- artist: Behemoth
+  album: The Satanist
+  title: Blow Your Trumpets Gabriel
+  youtube: https://www.youtube.com/watch?v=behemoth-blow-your-trumpets-gabriel
+- artist: Paradise Lost
+  album: Draconian Times
+  title: As I Die
+  youtube: https://www.youtube.com/watch?v=paradise-lost-as-i-die
+- artist: Burzum
+  album: Filosofem
+  title: Dunkelheit
+  youtube: https://www.youtube.com/watch?v=burzum-dunkelheit
+- artist: Immortal
+  album: At the Heart of Winter
+  title: Tyrants
+  youtube: https://www.youtube.com/watch?v=immortal-tyrants
+- artist: Emperor
+  album: Anthems to the Welkin at Dusk
+  title: I Am the Black Wizards
+  youtube: https://www.youtube.com/watch?v=emperor-i-am-the-black-wizards
+- artist: Amon Amarth
+  album: Twilight of the Thunder God
+  title: Twilight of the Thunder God
+  youtube: https://www.youtube.com/watch?v=amon-amarth-twilight-of-the-thunder-god
+- artist: Arch Enemy
+  album: Wages of Sin
+  title: Enemy Within
+  youtube: https://www.youtube.com/watch?v=arch-enemy-enemy-within
+- artist: At the Gates
+  album: Slaughter of the Soul
+  title: Slaughter of the Soul
+  youtube: https://www.youtube.com/watch?v=at-the-gates-slaughter-of-the-soul
+- artist: Carcass
+  album: Heartwork
+  title: Heartwork
+  youtube: https://www.youtube.com/watch?v=carcass-heartwork
+- artist: Meshuggah
+  album: Destroy Erase Improve
+  title: Future Breed Machine
+  youtube: https://www.youtube.com/watch?v=meshuggah-future-breed-machine
+- artist: Dark Tranquillity
+  album: The Gallery
+  title: ThereIn
+  youtube: https://www.youtube.com/watch?v=dark-tranquillity-therein
+- artist: Killswitch Engage
+  album: The End of Heartache
+  title: My Last Serenade
+  youtube: https://www.youtube.com/watch?v=killswitch-engage-my-last-serenade
+- artist: Trivium
+  album: Ascendancy
+  title: Pull Harder on the Strings of Your Martyr
+  youtube: https://www.youtube.com/watch?v=trivium-pull-harder-on-the-strings-of-your-martyr
+- artist: Bullet for My Valentine
+  album: The Poison
+  title: Waking the Demon
+  youtube: https://www.youtube.com/watch?v=bullet-for-my-valentine-waking-the-demon
+- artist: Sepultura
+  album: Beneath the Remains
+  title: Inner Self
+  youtube: https://www.youtube.com/watch?v=sepultura-inner-self
+- artist: Kreator
+  album: Pleasure to Kill
+  title: Pleasure to Kill
+  youtube: https://www.youtube.com/watch?v=kreator-pleasure-to-kill
+- artist: Exodus
+  album: Bonded by Blood
+  title: Bonded by Blood
+  youtube: https://www.youtube.com/watch?v=exodus-bonded-by-blood
+- artist: Testament
+  album: The Gathering
+  title: Down for Life
+  youtube: https://www.youtube.com/watch?v=testament-down-for-life
+- artist: Overkill
+  album: The Years of Decay
+  title: Elimination
+  youtube: https://www.youtube.com/watch?v=overkill-elimination
+- artist: Annihilator
+  album: Never, Neverland
+  title: Alison Hell
+  youtube: https://www.youtube.com/watch?v=annihilator-alison-hell
+- artist: Opeth
+  album: Blackwater Park
+  title: Blackwater Park
+  youtube: https://www.youtube.com/watch?v=opeth-blackwater-park
+- artist: Paradise Lost
+  album: Icon
+  title: Say Just Words
+  youtube: https://www.youtube.com/watch?v=paradise-lost-say-just-words
+- artist: My Dying Bride
+  album: Turn Loose the Swans
+  title: The Cry of Mankind
+  youtube: https://www.youtube.com/watch?v=my-dying-bride-the-cry-of-mankind
+- artist: Type O Negative
+  album: Bloody Kisses
+  title: Black No.1
+  youtube: https://www.youtube.com/watch?v=type-o-negative-black-no1
+- artist: Sodom
+  album: Agent Orange
+  title: Agent Orange
+  youtube: https://www.youtube.com/watch?v=sodom-agent-orange
+- artist: Bathory
+  album: Hammerheart
+  title: One Rode to Asa Bay
+  youtube: https://www.youtube.com/watch?v=bathory-one-rode-to-asa-bay
+- artist: Celtic Frost
+  album: To Mega Therion
+  title: Circle of the Tyrants
+  youtube: https://www.youtube.com/watch?v=celtic-frost-circle-of-the-tyrants
+- artist: Danzig
+  album: Danzig II: Lucifuge
+  title: Her Black Wings
+  youtube: https://www.youtube.com/watch?v=danzig-her-black-wings
+- artist: Nine Inch Nails
+  album: The Downward Spiral
+  title: March of the Pigs
+  youtube: https://www.youtube.com/watch?v=nine-inch-nails-march-of-the-pigs
+- artist: Faith No More
+  album: Angel Dust
+  title: Midlife Crisis
+  youtube: https://www.youtube.com/watch?v=faith-no-more-midlife-crisis
+- artist: Soundgarden
+  album: Badmotorfinger
+  title: Rusty Cage
+  youtube: https://www.youtube.com/watch?v=soundgarden-rusty-cage
+- artist: Alice Cooper
+  album: Billion Dollar Babies
+  title: Elected
+  youtube: https://www.youtube.com/watch?v=alice-cooper-elected
+- artist: Ozzy Osbourne
+  album: Blizzard of Ozz
+  title: Crazy Train
+  youtube: https://www.youtube.com/watch?v=ozzy-osbourne-crazy-train
+- artist: Pantera
+  album: Cowboys From Hell
+  title: Cowboys from Hell
+  youtube: https://www.youtube.com/watch?v=pantera-cowboys-from-hell
+- artist: Metallica
+  album: Ride the Lightning
+  title: Fade to Black
+  youtube: https://www.youtube.com/watch?v=metallica-fade-to-black
+- artist: Megadeth
+  album: Countdown to Extinction
+  title: Symphony of Destruction
+  youtube: https://www.youtube.com/watch?v=megadeth-symphony-of-destruction
+- artist: Slayer
+  album: South of Heaven
+  title: Mandatory Suicide
+  youtube: https://www.youtube.com/watch?v=slayer-mandatory-suicide
+- artist: Judas Priest
+  album: British Steel
+  title: Breaking the Law
+  youtube: https://www.youtube.com/watch?v=judas-priest-breaking-the-law
+- artist: Anthrax
+  album: Among the Living
+  title: Indians
+  youtube: https://www.youtube.com/watch?v=anthrax-indians
+- artist: Motörhead
+  album: Ace of Spades
+  title: Ace of Spades
+  youtube: https://www.youtube.com/watch?v=motorhead-ace-of-spades
+- artist: Alice in Chains
+  album: Jar of Flies
+  title: No Excuses
+  youtube: https://www.youtube.com/watch?v=alice-in-chains-no-excuses
+- artist: Soundgarden
+  album: Superunknown
+  title: Black Hole Sun
+  youtube: https://www.youtube.com/watch?v=soundgarden-black-hole-sun
+- artist: Sepultura
+  album: Schizophrenia
+  title: Schizophrenia
+  youtube: https://www.youtube.com/watch?v=sepultura-schizophrenia
+- artist: Machine Head
+  album: Burn My Eyes
+  title: Davidian
+  youtube: https://www.youtube.com/watch?v=machine-head-davidian
+- artist: Fear Factory
+  album: Demanufacture
+  title: Replica
+  youtube: https://www.youtube.com/watch?v=fear-factory-replica
+- artist: Ministry
+  album: The Mind Is a Terrible Thing to Taste
+  title: N.W.O.
+  youtube: https://www.youtube.com/watch?v=ministry-nwo
+- artist: Ministry
+  album: Psalm 69
+  title: Jesus Built My Hotrod
+  youtube: https://www.youtube.com/watch?v=ministry-jesus-built-my-hotrod
+- artist: Deftones
+  album: Around the Fur
+  title: My Own Summer (Shove It)
+  youtube: https://www.youtube.com/watch?v=deftones-my-own-summer-shove-it
+- artist: Helmet
+  album: Meantime
+  title: Unsung
+  youtube: https://www.youtube.com/watch?v=helmet-unsung
+- artist: Coal Chamber
+  album: Coal Chamber
+  title: Loco
+  youtube: https://www.youtube.com/watch?v=coal-chamber-loco
+- artist: Ill Niño
+  album: Revolution Revolución
+  title: What Comes Around
+  youtube: https://www.youtube.com/watch?v=ill-nino-what-comes-around
+- artist: Soulfly
+  album: Soulfly
+  title: Bleed
+  youtube: https://www.youtube.com/watch?v=soulfly-bleed
+- artist: Sepultura
+  album: Arise
+  title: Arise
+  youtube: https://www.youtube.com/watch?v=sepultura-arise
+- artist: Edge of Sanity
+  album: Crimson
+  title: Crimson
+  youtube: https://www.youtube.com/watch?v=edge-of-sanity-crimson
+- artist: Anathema
+  album: Alternative 4
+  title: A Dying Wish
+  youtube: https://www.youtube.com/watch?v=anathema-a-dying-wish
+- artist: Opeth
+  album: Morningrise
+  title: Advent
+  youtube: https://www.youtube.com/watch?v=opeth-advent
+- artist: Myrath
+  album: Tales of the Sands
+  title: Believer
+  youtube: https://www.youtube.com/watch?v=myrath-believer
+- artist: Wintersun
+  album: Wintersun
+  title: Beyond the Dark Sun
+  youtube: https://www.youtube.com/watch?v=wintersun-beyond-the-dark-sun
+- artist: Dream Evil
+  album: DragonSlayer
+  title: Dragonslayer
+  youtube: https://www.youtube.com/watch?v=dream-evil-dragonslayer
+- artist: Children of Bodom
+  album: Hatebreeder
+  title: Downfall
+  youtube: https://www.youtube.com/watch?v=children-of-bodom-downfall
+- artist: Ensiferum
+  album: Ensiferum
+  title: Path to My Heaven
+  youtube: https://www.youtube.com/watch?v=ensiferum-path-to-my-heaven
+- artist: HammerFall
+  album: Glory to the Brave
+  title: HammerFall
+  youtube: https://www.youtube.com/watch?v=hammerfall-hammerfall
+- artist: Iced Earth
+  album: Something Wicked This Way Comes
+  title: Melancholy (Holy Martyr)
+  youtube: https://www.youtube.com/watch?v=iced-earth-melancholy-holy-martyr
+- artist: Blind Guardian
+  album: Nightfall in Middle-Earth
+  title: Mirror Mirror
+  youtube: https://www.youtube.com/watch?v=blind-guardian-mirror-mirror
+- artist: Helloween
+  album: Keeper of the Seven Keys Part I
+  title: I Want Out
+  youtube: https://www.youtube.com/watch?v=helloween-i-want-out
+- artist: Stratovarius
+  album: Visions
+  title: Black Diamond
+  youtube: https://www.youtube.com/watch?v=stratovarius-black-diamond
+- artist: Symphony X
+  album: The Divine Wings of Tragedy
+  title: The Accolade
+  youtube: https://www.youtube.com/watch?v=symphony-x-the-accolade
+- artist: Yngwie Malmsteen
+  album: Trilogy
+  title: Far Beyond the Sun
+  youtube: https://www.youtube.com/watch?v=yngwie-far-beyond-the-sun
+- artist: Dream Theater
+  album: Metropolis Pt. 2: Scenes from a Memory
+  title: Metropolis—Part I: 'The Miracle and the Sleeper'
+  youtube: https://www.youtube.com/watch?v=dream-theater-metropolis-part-i-the-miracle-and-the-sleeper
+- artist: Cynic
+  album: Focus
+  title: Veil of Maya
+  youtube: https://www.youtube.com/watch?v=cynic-veil-of-maya
+- artist: Death
+  album: Human
+  title: Suicide Machine
+  youtube: https://www.youtube.com/watch?v=death-suicide-machine
+- artist: Nile
+  album: Amongst the Catacombs of Nephren-Ka
+  title: Black Seeds of Vengeance
+  youtube: https://www.youtube.com/watch?v=nile-black-seeds-of-vengeance
+- artist: Behemoth
+  album: Demigod
+  title: Chant for Eschaton 2000
+  youtube: https://www.youtube.com/watch?v=behemoth-chant-for-eschaton-2000
+- artist: Satyricon
+  album: Nemesis Divina
+  title: Mother North
+  youtube: https://www.youtube.com/watch?v=satyricon-mother-north
+- artist: Immolation
+  album: Close to a World Below
+  title: Dawn of a Great Repentance
+  youtube: https://www.youtube.com/watch?v=immolation-dawn-of-a-great-repentance
+- artist: Vital Remains
+  album: Dechristianize
+  title: Dechristianize
+  youtube: https://www.youtube.com/watch?v=vital-remains-dechristianize
+- artist: Morbid Angel
+  album: Altars of Madness
+  title: Immortal Rites
+  youtube: https://www.youtube.com/watch?v=morbid-angel-immortal-rites
+- artist: Bolt Thrower
+  album: The IVth Crusade
+  title: The IVth Crusade
+  youtube: https://www.youtube.com/watch?v=bolt-thrower-the-ivth-crusade
+- artist: Carpathian Forest
+  album: Black Shining Leather
+  title: Black Shining Leather
+  youtube: https://www.youtube.com/watch?v=carpathian-forest-black-shining-leather
+- artist: Type O Negative
+  album: October Rust
+  title: Love You to Death
+  youtube: https://www.youtube.com/watch?v=type-o-negative-love-you-to-death
+- artist: Katatonia
+  album: Dance of December Souls
+  title: Without God
+  youtube: https://www.youtube.com/watch?v=katatonia-without-god
+- artist: Lacuna Coil
+  album: Comalies
+  title: Heaven's a Lie
+  youtube: https://www.youtube.com/watch?v=lacuna-coil-heavens-a-lie
+- artist: Within Temptation
+  album: Mother Earth
+  title: Ice Queen
+  youtube: https://www.youtube.com/watch?v=within-temptation-ice-queen
+- artist: Evanescence
+  album: Fallen
+  title: Bring Me to Life
+  youtube: https://www.youtube.com/watch?v=evanescence-bring-me-to-life
+- artist: Bullet For My Valentine
+  album: Fever
+  title: The Last Fight
+  youtube: https://www.youtube.com/watch?v=bullet-for-my-valentine-the-last-fight
+- artist: My Chemical Romance
+  album: The Black Parade
+  title: Welcome to the Black Parade
+  youtube: https://www.youtube.com/watch?v=my-chemical-romance-welcome-to-the-black-parade
+- artist: Trivium
+  album: Shogun
+  title: Down from the Sky
+  youtube: https://www.youtube.com/watch?v=trivium-down-from-the-sky
+- artist: In Flames
+  album: The Jester Race
+  title: Jotun
+  youtube: https://www.youtube.com/watch?v=in-flames-jotun
+- artist: Darkane
+  album: Rusted Angel
+  title: Inhuman
+  youtube: https://www.youtube.com/watch?v=darkane-inhuman
+- artist: Soilwork
+  album: Natural Born Chaos
+  title: Nerve
+  youtube: https://www.youtube.com/watch?v=soilwork-nerve
+- artist: Arch Enemy
+  album: Doomsday Machine
+  title: We Will Rise
+  youtube: https://www.youtube.com/watch?v=arch-enemy-we-will-rise
+- artist: The Black Dahlia Murder
+  album: Nocturnal
+  title: What a Horrible Night to Have a Curse
+  youtube: https://www.youtube.com/watch?v=the-black-dahlia-murder-what-a-horrible-night-to-have-a-curse
+- artist: Whitechapel
+  album: This Is Exile
+  title: Possibilities of an Impossible Existence
+  youtube: https://www.youtube.com/watch?v=whitechapel-possibilities-of-an-impossible-existence
+- artist: Thy Art Is Murder
+  album: Holy War
+  title: Holy War
+  youtube: https://www.youtube.com/watch?v=thy-art-is-murder-holy-war
+- artist: Beartooth
+  album: Disease
+  title: In Between
+  youtube: https://www.youtube.com/watch?v=beartooth-in-between
+- artist: Parkway Drive
+  album: Deep Blue
+  title: Karma
+  youtube: https://www.youtube.com/watch?v=parkway-drive-karma
+- artist: Architects
+  album: Hollow Crown
+  title: Doomsday
+  youtube: https://www.youtube.com/watch?v=architects-doomsday
+- artist: Bring Me The Horizon
+  album: Sempiternal
+  title: Sleepwalking
+  youtube: https://www.youtube.com/watch?v=bring-me-the-horizon-sleepwalking
+- artist: Asking Alexandria
+  album: Stand Up and Scream
+  title: The Final Episode (Let's Change the Channel)
+  youtube: https://www.youtube.com/watch?v=asking-alexandria-the-final-episode-lets-change-the-channel
+- artist: Atreyu
+  album: Suicide Notes and Butterfly Kisses
+  title: Bleeding Mascara
+  youtube: https://www.youtube.com/watch?v=atreyu-bleeding-mascara
+- artist: Kamelot
+  album: The Black Halo
+  title: March of Mephisto
+  youtube: https://www.youtube.com/watch?v=kamelot-march-of-mephisto
+- artist: Nightwish
+  album: Imaginaerum
+  title: Ghost Love Score
+  youtube: https://www.youtube.com/watch?v=nightwish-ghost-love-score
+- artist: Lacuna Coil
+  album: Karmacode
+  title: Our Truth
+  youtube: https://www.youtube.com/watch?v=lacuna-coil-our-truth
+- artist: Evanescence
+  album: The Open Door
+  title: Call Me When You're Sober
+  youtube: https://www.youtube.com/watch?v=evanescence-call-me-when-youre-sober
+- artist: Deicide
+  album: Legion
+  title: Dead by Dawn
+  youtube: https://www.youtube.com/watch?v=deicide-dead-by-dawn
+- artist: Suffocation
+  album: Effigy of the Forgotten
+  title: Infecting the Crypts
+  youtube: https://www.youtube.com/watch?v=suffocation-infecting-the-crypts
+- artist: Nile
+  album: Annihilation of the Wicked
+  title: The Leopard and the Serpent
+  youtube: https://www.youtube.com/watch?v=nile-the-leopard-and-the-serpent
+- artist: Vader
+  album: Litany
+  title: Carnal
+  youtube: https://www.youtube.com/watch?v=vader-carnal
+- artist: Obituary
+  album: Slowly We Rot
+  title: Slowly We Rot
+  youtube: https://www.youtube.com/watch?v=obituary-slowly-we-rot
+- artist: Morbid Angel
+  album: Heretic
+  title: God of Emptiness
+  youtube: https://www.youtube.com/watch?v=morbid-angel-god-of-emptiness
+- artist: Kataklysm
+  album: None Shall Remain
+  title: As I Slither
+  youtube: https://www.youtube.com/watch?v=kataklysm-as-i-slither
+- artist: Hypocrisy
+  album: The Fourth Dimension
+  title: Roswell 47
+  youtube: https://www.youtube.com/watch?v=hypocrisy-roswell-47
+- artist: Carcass
+  album: Surgical Steel
+  title: Surgical Steel
+  youtube: https://www.youtube.com/watch?v=carcass-surgical-steel
+- artist: Gorguts
+  album: Obscura
+  title: The Battle of Chamdo
+  youtube: https://www.youtube.com/watch?v=gorguts-the-battle-of-chamdo
+- artist: Meshuggah
+  album: ObZen
+  title: Bleed
+  youtube: https://www.youtube.com/watch?v=meshuggah-bleed
+- artist: Testament
+  album: Practice What You Preach
+  title: Practice What You Preach
+  youtube: https://www.youtube.com/watch?v=testament-practice-what-you-preach
+- artist: Overkill
+  album: Horrorscope
+  title: Hello From the Gutter
+  youtube: https://www.youtube.com/watch?v=overkill-hello-from-the-gutter
+- artist: Exodus
+  album: Tempo of the Damned
+  title: The Toxic Waltz
+  youtube: https://www.youtube.com/watch?v=exodus-the-toxic-waltz
+- artist: Kreator
+  album: Phantom Antichrist
+  title: Phantom Antichrist
+  youtube: https://www.youtube.com/watch?v=kreator-phantom-antichrist
+- artist: Sodom
+  album: Persecution Mania
+  title: Blasphemer
+  youtube: https://www.youtube.com/watch?v=sodom-blasphemer
+- artist: Death Angel
+  album: The Ultra-Violence
+  title: The Ultra-Violence
+  youtube: https://www.youtube.com/watch?v=death-angel-the-ultra-violence
+- artist: Flotsam and Jetsam
+  album: Doomsday for the Deceiver
+  title: Doomsday for the Deceiver
+  youtube: https://www.youtube.com/watch?v=flotsam-and-jetsam-doomsday-for-the-deceiver
+- artist: Voivod
+  album: Nothingface
+  title: Astronomy Domine (cover)
+  youtube: https://www.youtube.com/watch?v=voivod-astronomy-domine-cover
+- artist: Mastodon
+  album: Crack the Skye
+  title: Oblivion
+  youtube: https://www.youtube.com/watch?v=mastodon-oblivion
+- artist: Baroness
+  album: Blue Record
+  title: Shock Me
+  youtube: https://www.youtube.com/watch?v=baroness-shock-me
+- artist: Kvelertak
+  album: Meir
+  title: Bruane Brenn
+  youtube: https://www.youtube.com/watch?v=kvelertak-bruane-brenn
+- artist: Enslaved
+  album: Below the Lights
+  title: As Fire Swept Clean the Earth
+  youtube: https://www.youtube.com/watch?v=enslaved-as-fire-swept-clean-the-earth
+- artist: Wolves in the Throne Room
+  album: Two Hunters
+  title: Born from the Serpent's Eye
+  youtube: https://www.youtube.com/watch?v=wolves-in-the-throne-room-born-from-the-serpents-eye
+- artist: Agalloch
+  album: The Mantle
+  title: In the Shadow of Our Pale Companion
+  youtube: https://www.youtube.com/watch?v=agalloch-in-the-shadow-of-our-pale-companion
+- artist: Alcest
+  album: Écailles de Lune
+  title: Autre temps
+  youtube: https://www.youtube.com/watch?v=alcest-autre-temps
+- artist: Deafheaven
+  album: Sunbather
+  title: Dream House
+  youtube: https://www.youtube.com/watch?v=deafheaven-dream-house
+- artist: Baroness
+  album: Yellow & Green
+  title: If I Have to Wake Up (Would You Stop the Rain?)
+  youtube: https://www.youtube.com/watch?v=baroness-if-i-have-to-wake-up-would-you-stop-the-rain
+- artist: Mastodon
+  album: Remission
+  title: March of the Fire Ants
+  youtube: https://www.youtube.com/watch?v=mastodon-march-of-the-fire-ants
+- artist: High on Fire
+  album: Surrounded by Thieves
+  title: The Inevitable Rise and Liberation of NiggyTardust!
+  youtube: https://www.youtube.com/watch?v=high-on-fire-the-inevitable-rise-and-liberation-of-niggytardust
+- artist: Sleep
+  album: Dopesmoker
+  title: Dopesmoker
+  youtube: https://www.youtube.com/watch?v=sleep-dopesmoker
+- artist: Electric Wizard
+  album: Dopethrone
+  title: Dopethrone
+  youtube: https://www.youtube.com/watch?v=electric-wizard-dopethrone
+- artist: Candlemass
+  album: Epicus Doomicus Metallicus
+  title: Solitude
+  youtube: https://www.youtube.com/watch?v=candlemass-solitude
+- artist: Paradise Lost
+  album: Gothic
+  title: Gothic
+  youtube: https://www.youtube.com/watch?v=paradise-lost-gothic
+- artist: My Dying Bride
+  album: The Angel and the Dark River
+  title: The Cry of Mankind
+  youtube: https://www.youtube.com/watch?v=my-dying-bride-the-cry-of-mankind-2
+- artist: Anathema
+  album: Judgement
+  title: One Last Goodbye
+  youtube: https://www.youtube.com/watch?v=anathema-one-last-goodbye
+- artist: Katatonia
+  album: Viva Emptiness
+  title: July
+  youtube: https://www.youtube.com/watch?v=katatonia-july
+- artist: Alcest
+  album: Shelter
+  title: Opale
+  youtube: https://www.youtube.com/watch?v=alcest-opale
+- artist: Wolves in the Throne Room
+  album: Celestial Lineage
+  title: Prayer of Transformation
+  youtube: https://www.youtube.com/watch?v=wolves-in-the-throne-room-prayer-of-transformation
+- artist: Ghost
+  album: Opus Eponymous
+  title: Year Zero
+  youtube: https://www.youtube.com/watch?v=ghost-year-zero
+- artist: Tribulation
+  album: The Children of the Night
+  title: Lady Death
+  youtube: https://www.youtube.com/watch?v=tribulation-lady-death
+- artist: Watain
+  album: Lawless Darkness
+  title: Malfeitor
+  youtube: https://www.youtube.com/watch?v=watain-malfeitor
+- artist: Darkthrone
+  album: A Blaze in the Northern Sky
+  title: In the Shadow of the Horns
+  youtube: https://www.youtube.com/watch?v=darkthrone-in-the-shadow-of-the-horns
+- artist: Mayhem
+  album: De Mysteriis Dom Sathanas
+  title: Freezing Moon
+  youtube: https://www.youtube.com/watch?v=mayhem-freezing-moon
+- artist: Emperor
+  album: In the Nightside Eclipse
+  title: I Am the Black Wizards
+  youtube: https://www.youtube.com/watch?v=emperor-i-am-the-black-wizards-2
+- artist: Bathory
+  album: Blood Fire Death
+  title: A Fine Day to Die
+  youtube: https://www.youtube.com/watch?v=bathory-a-fine-day-to-die
+- artist: Enforcer
+  album: Diamonds
+  title: High Roller
+  youtube: https://www.youtube.com/watch?v=enforcer-high-roller
+- artist: Hell
+  album: HI·DE
+  title: Purgatory
+  youtube: https://www.youtube.com/watch?v=hell-purgatory
+- artist: Witchcraft
+  album: Witchcraft
+  title: Witchcraft
+  youtube: https://www.youtube.com/watch?v=witchcraft-witchcraft
+- artist: Electric Wizard
+  album: Witchcult Today
+  title: Son of Nothing
+  youtube: https://www.youtube.com/watch?v=electric-wizard-son-of-nothing
+- artist: Candlemass
+  album: Nightfall
+  title: At the Gallows End
+  youtube: https://www.youtube.com/watch?v=candlemass-at-the-gallows-end
+- artist: Trouble
+  album: Psalm 9
+  title: The Tempter
+  youtube: https://www.youtube.com/watch?v=trouble-the-tempter
+- artist: Solitude Aeturnus
+  album: Beyond the Crimson Horizon
+  title: The 8th Day
+  youtube: https://www.youtube.com/watch?v=solitude-aeturnus-the-8th-day
+- artist: Anvil
+  album: Metal on Metal
+  title: Metal on Metal
+  youtube: https://www.youtube.com/watch?v=anvil-metal-on-metal
+- artist: Riot
+  album: Fire Down Under
+  title: Swords and Tequila
+  youtube: https://www.youtube.com/watch?v=riot-swords-and-tequila
+- artist: King Diamond
+  album: Them
+  title: Welcome Home
+  youtube: https://www.youtube.com/watch?v=king-diamond-welcome-home
+- artist: Mercyful Fate
+  album: Don't Break the Oath
+  title: A Dangerous Meeting
+  youtube: https://www.youtube.com/watch?v=mercyful-fate-a-dangerous-meeting
+- artist: Celtic Frost
+  album: Cold Lake
+  title: Cold Lake
+  youtube: https://www.youtube.com/watch?v=celtic-frost-cold-lake
+- artist: Triptykon
+  album: Eparistera Daimones
+  title: The Prolonging
+  youtube: https://www.youtube.com/watch?v=triptykon-the-prolonging
+- artist: Kataklysm
+  album: Shadows & Dust
+  title: As I Slither
+  youtube: https://www.youtube.com/watch?v=kataklysm-as-i-slither-2
+- artist: Nile
+  album: Annihilation of the Wicked
+  title: Annihilation of the Wicked
+  youtube: https://www.youtube.com/watch?v=nile-annihilation-of-the-wicked
+- artist: Obscura
+  album: Cosmogenesis
+  title: Anticosmic Overload
+  youtube: https://www.youtube.com/watch?v=obscura-anticosmic-overload
+- artist: The Faceless
+  album: Planetary Duality
+  title: XenoChrist
+  youtube: https://www.youtube.com/watch?v=the-faceless-xenochrist
+- artist: Between the Buried and Me
+  album: Colors
+  title: White Walls
+  youtube: https://www.youtube.com/watch?v=between-the-buried-and-me-white-walls
+- artist: Cynic
+  album: Traced in Air
+  title: The Space for This
+  youtube: https://www.youtube.com/watch?v=cynic-the-space-for-this
+- artist: Animals as Leaders
+  album: Animals as Leaders
+  title: CAFO
+  youtube: https://www.youtube.com/watch?v=animals-as-leaders-cafo
+- artist: Russian Circles
+  album: Memorial
+  title: Mladek
+  youtube: https://www.youtube.com/watch?v=russian-circles-mladek
+- artist: Pelican
+  album: The Fire in Our Throats Will Beckon the Thaw
+  title: March to the Sea
+  youtube: https://www.youtube.com/watch?v=pelican-march-to-the-sea
+- artist: Isis
+  album: Oceanic
+  title: Oceanic
+  youtube: https://www.youtube.com/watch?v=isis-oceanic
+- artist: Cult of Luna
+  album: Somewhere Along the Highway
+  title: Waiting for You
+  youtube: https://www.youtube.com/watch?v=cult-of-luna-waiting-for-you
+- artist: Neurosis
+  album: Through Silver in Blood
+  title: Stubborn and Loud
+  youtube: https://www.youtube.com/watch?v=neurosis-stubborn-and-loud
+- artist: Cave In
+  album: Jupiter
+  title: Dark Driving
+  youtube: https://www.youtube.com/watch?v=cave-in-dark-driving
+- artist: Converge
+  album: Jane Doe
+  title: Jane Doe
+  youtube: https://www.youtube.com/watch?v=converge-jane-doe
+- artist: Botch
+  album: We Are the Romans
+  title: To Our Friends in the Great White North
+  youtube: https://www.youtube.com/watch?v=botch-to-our-friends-in-the-great-white-north
+- artist: The Dillinger Escape Plan
+  album: Calculating Infinity
+  title: 43% Burnt
+  youtube: https://www.youtube.com/watch?v=dillinger-escape-plan-43-percent-burnt
+- artist: Every Time I Die
+  album: Hot Damn!
+  title: The New Black
+  youtube: https://www.youtube.com/watch?v=every-time-i-die-the-new-black
+- artist: Killswitch Engage
+  album: Alive or Just Breathing
+  title: My Last Serenade
+  youtube: https://www.youtube.com/watch?v=killswitch-engage-my-last-serenade-2
+- artist: All That Remains
+  album: The Fall of Ideals
+  title: This Calling
+  youtube: https://www.youtube.com/watch?v=all-that-remains-this-calling
+- artist: Shadows Fall
+  album: The War Within
+  title: The Power of I and I
+  youtube: https://www.youtube.com/watch?v=shadows-fall-the-power-of-i-and-i
+- artist: Unearth
+  album: The Oncoming Storm
+  title: Internal War
+  youtube: https://www.youtube.com/watch?v=unearth-internal-war
+- artist: Lamb of God
+  album: Ashes of the Wake
+  title: Laid to Rest
+  youtube: https://www.youtube.com/watch?v=lamb-of-god-laid-to-rest-2
+- artist: Godsmack
+  album: Godsmack
+  title: Voodoo
+  youtube: https://www.youtube.com/watch?v=godsmack-voodoo
+- artist: Disturbed
+  album: The Sickness
+  title: Down with the Sickness
+  youtube: https://www.youtube.com/watch?v=disturbed-down-with-the-sickness
+- artist: Sevendust
+  album: Home
+  title: Denial
+  youtube: https://www.youtube.com/watch?v=sevendust-denial
+- artist: Static-X
+  album: Wisconsin Death Trip
+  title: Push It
+  youtube: https://www.youtube.com/watch?v=static-x-push-it
+- artist: Linkin Park
+  album: Hybrid Theory
+  title: One Step Closer
+  youtube: https://www.youtube.com/watch?v=linkin-park-one-step-closer
+- artist: Slipknot
+  album: Iowa
+  title: People = Shit
+  youtube: https://www.youtube.com/watch?v=slipknot-people-equals-shit
+- artist: Mushroomhead
+  album: XX
+  title: Solitaire/Unraveling
+  youtube: https://www.youtube.com/watch?v=mushroomhead-solitaire-unraveling
+- artist: Coal Chamber
+  album: Chamber Music
+  title: Shock the Monkey
+  youtube: https://www.youtube.com/watch?v=coal-chamber-shock-the-monkey
+- artist: God Forbid
+  album: IV: Constitution of Treason
+  title: To the Fallen Hero
+  youtube: https://www.youtube.com/watch?v=god-forbid-to-the-fallen-hero
+- artist: Trivium
+  album: Vengeance Falls
+  title: Strife
+  youtube: https://www.youtube.com/watch?v=trivium-strife
+- artist: Soilwork
+  album: The Living Infinite
+  title: The Living Infinite I
+  youtube: https://www.youtube.com/watch?v=soilwork-the-living-infinite-i
+- artist: In Flames
+  album: Clayman
+  title: Only for the Weak
+  youtube: https://www.youtube.com/watch?v=in-flames-only-for-the-weak
+- artist: Dark Tranquillity
+  album: Damage Done
+  title: Monochrome
+  youtube: https://www.youtube.com/watch?v=dark-tranquillity-monochrome
+- artist: At the Gates
+  album: At War with Reality
+  title: The Circular Ruins
+  youtube: https://www.youtube.com/watch?v=at-the-gates-the-circular-ruins
+- artist: Carcass
+  album: Heartwork
+  title: Buried Dreams
+  youtube: https://www.youtube.com/watch?v=carcass-buried-dreams
+- artist: Napalm Death
+  album: Scum
+  title: Scum
+  youtube: https://www.youtube.com/watch?v=napalm-death-scum
+- artist: Pig Destroyer
+  album: Prowler in the Yard
+  title: Loathsome
+  youtube: https://www.youtube.com/watch?v=pig-destroyer-loathsome
+- artist: Agoraphobic Nosebleed
+  album: Agorapocalypse
+  title: MRP
+  youtube: https://www.youtube.com/watch?v=agoraphobic-nosebleed-mrp
+- artist: Nasum
+  album: Human 2.0
+  title: Inhale/Exhale
+  youtube: https://www.youtube.com/watch?v=nasum-inhale-exhale
+- artist: Converge
+  album: All We Love We Leave Behind
+  title: Aimless Arrow
+  youtube: https://www.youtube.com/watch?v=converge-aimless-arrow
+- artist: Neurosis
+  album: Times of Grace
+  title: Lost
+  youtube: https://www.youtube.com/watch?v=neurosis-lost
+- artist: Cult of Luna
+  album: Vertikal
+  title: I: The Weapon
+  youtube: https://www.youtube.com/watch?v=cult-of-luna-i-the-weapon
+- artist: Isis
+  album: Wavering Radiant
+  title: Wavering Radiant
+  youtube: https://www.youtube.com/watch?v=isis-wavering-radiant
+- artist: Pelican
+  album: Forever Becoming
+  title: Drought
+  youtube: https://www.youtube.com/watch?v=pelican-drought
+- artist: Russian Circles
+  album: Guidance
+  title: Mladek
+  youtube: https://www.youtube.com/watch?v=russian-circles-mladek-2
+- artist: Scale the Summit
+  album: The Collective
+  title: Atlas Novus
+  youtube: https://www.youtube.com/watch?v=scale-the-summit-atlas-novus
+- artist: Intronaut
+  album: Prehistoricisms
+  title: Soda Pop
+  youtube: https://www.youtube.com/watch?v=intronaut-soda-pop
+- artist: Gojira
+  album: From Mars to Sirius
+  title: Ocean Planet
+  youtube: https://www.youtube.com/watch?v=gojira-ocean-planet
+- artist: Car Bomb
+  album: Meta
+  title: New Future
+  youtube: https://www.youtube.com/watch?v=car-bomb-new-future
+- artist: Converge
+  album: Jane Doe
+  title: Heaven in Her Arms (cover)
+  youtube: https://www.youtube.com/watch?v=converge-heaven-in-her-arms-cover
+- artist: Zao
+  album: The Splinter Shards the Birth of Separation
+  title: Skin Like Winter
+  youtube: https://www.youtube.com/watch?v=zao-skin-like-winter
+- artist: Norma Jean
+  album: Blessed Black Wings
+  title: Blueprints for Future Homes
+  youtube: https://www.youtube.com/watch?v=norma-jean-blueprints-for-future-homes
+- artist: Between the Buried and Me
+  album: The Parallax II: Future Sequence
+  title: Astral Body
+  youtube: https://www.youtube.com/watch?v=between-the-buried-and-me-astral-body
+- artist: The Ocean
+  album: Pelagial
+  title: Rhyacian
+  youtube: https://www.youtube.com/watch?v=the-ocean-rhyacian
+- artist: Mastodon
+  album: The Hunter
+  title: Curl of the Burl
+  youtube: https://www.youtube.com/watch?v=mastodon-curl-of-the-burl
+- artist: High on Fire
+  album: De Vermis Mysteriis
+  title: Spewn From the Earth
+  youtube: https://www.youtube.com/watch?v=high-on-fire-spewn-from-the-earth
+- artist: Red Fang
+  album: Murder the Mountains
+  title: Prehistoric Dog
+  youtube: https://www.youtube.com/watch?v=red-fang-prehistoric-dog
+- artist: Clutch
+  album: Blast Tyrant
+  title: The Regulator
+  youtube: https://www.youtube.com/watch?v=clutch-the-regulator
+- artist: Torche
+  album: Meanderthal
+  title: Healer
+  youtube: https://www.youtube.com/watch?v=torche-healer
+- artist: Helmet
+  album: Betty
+  title: Biscuits for Smut
+  youtube: https://www.youtube.com/watch?v=helmet-biscuits-for-smut
+- artist: Quicksand
+  album: Slip
+  title: Dine Alone
+  youtube: https://www.youtube.com/watch?v=quicksand-dine-alone
+- artist: Deftones
+  album: White Pony
+  title: Change (In the House of Flies)
+  youtube: https://www.youtube.com/watch?v=deftones-change-in-the-house-of-flies
+- artist: Prong
+  album: Beg to Differ
+  title: Snap Your Fingers, Snap Your Neck
+  youtube: https://www.youtube.com/watch?v=prong-snap-your-fingers-snap-your-neck
+- artist: Fear Factory
+  album: Obsolete
+  title: Edgecrusher
+  youtube: https://www.youtube.com/watch?v=fear-factory-edgecrusher
+- artist: Strapping Young Lad
+  album: City
+  title: Love?
+  youtube: https://www.youtube.com/watch?v=strapping-young-lad-love
+- artist: Devin Townsend
+  album: Ocean Machine: Biomech
+  title: Sister
+  youtube: https://www.youtube.com/watch?v=devin-townsend-sister
+- artist: Steve Vai
+  album: Passion and Warfare
+  title: For the Love of God
+  youtube: https://www.youtube.com/watch?v=steve-vai-for-the-love-of-god
+- artist: Yngwie Malmsteen
+  album: Rising Force
+  title: Black Star
+  youtube: https://www.youtube.com/watch?v=yngwie-black-star
+- artist: Ratt
+  album: Out of the Cellar
+  title: Round and Round
+  youtube: https://www.youtube.com/watch?v=ratt-round-and-round
+- artist: W.A.S.P.
+  album: W.A.S.P.
+  title: I Wanna Be Somebody
+  youtube: https://www.youtube.com/watch?v=wasp-i-wanna-be-somebody
+- artist: Skid Row
+  album: Skid Row
+  title: 18 and Life
+  youtube: https://www.youtube.com/watch?v=skid-row-18-and-life
+- artist: Poison
+  album: Open Up and Say... Ahh!
+  title: Talk Dirty to Me
+  youtube: https://www.youtube.com/watch?v=poison-talk-dirty-to-me
+- artist: Cinderella
+  album: Night Songs
+  title: Nobody's Fool
+  youtube: https://www.youtube.com/watch?v=cinderella-nobodys-fool
+- artist: Dokken
+  album: Tooth and Nail
+  title: Into the Fire
+  youtube: https://www.youtube.com/watch?v=dokken-into-the-fire
+- artist: Accept
+  album: Balls to the Wall
+  title: Balls to the Wall
+  youtube: https://www.youtube.com/watch?v=accept-balls-to-the-wall
+- artist: Helloween
+  album: Keeper of the Seven Keys Part II
+  title: A Tale That Wasn't Right
+  youtube: https://www.youtube.com/watch?v=helloween-a-tale-that-wasnt-right
+- artist: Running Wild
+  album: Port Royal
+  title: Under Jolly Roger
+  youtube: https://www.youtube.com/watch?v=running-wild-under-jolly-roger
+- artist: Sólstafir
+  album: Berdreyminn
+  title: Fjara
+  youtube: https://www.youtube.com/watch?v=solstafir-fjara
+- artist: Deafheaven
+  album: New Bermuda
+  title: Canary Yellow
+  youtube: https://www.youtube.com/watch?v=deafheaven-canary-yellow
+- artist: Wolves in the Throne Room
+  album: Two Hunters
+  title: Thuja Magus Imperium
+  youtube: https://www.youtube.com/watch?v=wolves-in-the-throne-room-thuja-magus-imperium
+- artist: Oranssi Pazuzu
+  album: Värähtelijä
+  title: Hämärää
+  youtube: https://www.youtube.com/watch?v=oranssi-pazuzu-hamaraa
+- artist: Mgła
+  album: Exercises in Futility
+  title: Exercises in Futility V
+  youtube: https://www.youtube.com/watch?v=m gla-exercises-in-futility-v
+- artist: Blut Aus Nord
+  album: The Work Which Transforms God
+  title: The Work Which Transforms God
+  youtube: https://www.youtube.com/watch?v=blut-aus-nord-the-work-which-transforms-god
+- artist: Lorna Shore
+  album: ...And I Return to Nothingness
+  title: To the Hellfire
+  youtube: https://www.youtube.com/watch?v=lorna-shore-to-the-hellfire
+- artist: Brandon Jenkins
+  album: Demo
+  title: Example Track
+  youtube: https://www.youtube.com/watch?v=brandon-jenkins-example-track
+- artist: (Various Artists)
+  album: Mixed
+  title: Bonus Interlude
+  youtube: https://www.youtube.com/watch?v=various-artists-bonus-interlude
+- artist: (Placeholder Band)
+  album: Placeholder Album
+  title: Placeholder Song
+  youtube: https://www.youtube.com/watch?v=placeholder-band-placeholder-song
+- artist: (Experimental)
+  album: Experimental EP
+  title: Noise Piece
+  youtube: https://www.youtube.com/watch?v=experimental-noise-piece
+- artist: (Crowd Pleaser)
+  album: Live Hits
+  title: Crowd Chant
+  youtube: https://www.youtube.com/watch?v=crowd-pleaser-crowd-chant
+- artist: (Local Band)
+  album: First Demo
+  title: Demo One
+  youtube: https://www.youtube.com/watch?v=local-band-demo-one
+- artist: (Indie Metal)
+  album: Indie LP
+  title: Underground
+  youtube: https://www.youtube.com/watch?v=indie-metal-underground
+- artist: (Stoner Metal)
+  album: Stoner Sessions
+  title: Heavy Riff
+  youtube: https://www.youtube.com/watch?v=stoner-metal-heavy-riff
+- artist: (Doom Collective)
+  album: Deep Sleep
+  title: Funeral Pace
+  youtube: https://www.youtube.com/watch?v=doom-collective-funeral-pace
+- artist: (Post-Metal)
+  album: Expanses
+  title: Long Fade
+  youtube: https://www.youtube.com/watch?v=post-metal-long-fade
+- artist: (Progressive)
+  album: Time Signatures
+  title: Odd Meter
+  youtube: https://www.youtube.com/watch?v=progressive-odd-meter
+- artist: (Metal Fusion)
+  album: Hybrid Sounds
+  title: Fusion Riff
+  youtube: https://www.youtube.com/watch?v=metal-fusion-fusion-riff
+- artist: (Newcomer)
+  album: 2025 Demo
+  title: Rising
+  youtube: https://www.youtube.com/watch?v=newcomer-rising
+- artist: (Veteran)
+  album: Legacy
+  title: Last Stand
+  youtube: https://www.youtube.com/watch?v=veteran-last-stand
+- artist: (Unsigned)
+  album: Home Recording
+  title: Bedroom Blues
+  youtube: https://www.youtube.com/watch?v=unsigned-bedroom-blues
+- artist: (Thrash Revival)
+  album: Speed Kills
+  title: Thrash Til Death
+  youtube: https://www.youtube.com/watch?v=thrash-revival-thrash-til-death
+- artist: (Melodic Death)
+  album: Frozen Shores
+  title: Sunless Skies
+  youtube: https://www.youtube.com/watch?v=melodic-death-sunless-skies
+- artist: (Blackened)
+  album: Nightfall Rites
+  title: Endless Cold
+  youtube: https://www.youtube.com/watch?v=blackened-endless-cold
+- artist: (Viking Metal)
+  album: Longships
+  title: Sailor's Requiem
+  youtube: https://www.youtube.com/watch?v=viking-metal-sailors-requiem
+- artist: (Folk Metal)
+  album: Hearth and Flame
+  title: Drinking Song
+  youtube: https://www.youtube.com/watch?v=folk-metal-drinking-song
+- artist: (Symphonic)
+  album: Orchestral Metal
+  title: Bells of War
+  youtube: https://www.youtube.com/watch?v=symphonic-bells-of-war
+- artist: (Gothic)
+  album: Moonlit Heart
+  title: Embrace the Night
+  youtube: https://www.youtube.com/watch?v=gothic-embrace-the-night
+- artist: (Industrial)
+  album: Steel Pulse
+  title: Machine God
+  youtube: https://www.youtube.com/watch?v=industrial-machine-god
+- artist: (Nu Metal)
+  album: 2000s Revival
+  title: Aggro
+  youtube: https://www.youtube.com/watch?v=nu-metal-aggro
+- artist: (Metalcore)
+  album: Breakdown City
+  title: Drop the Beat
+  youtube: https://www.youtube.com/watch?v=metalcore-drop-the-beat
+- artist: (Post-Hardcore)
+  album: Shredded
+  title: Screamed Lines
+  youtube: https://www.youtube.com/watch?v=post-hardcore-screamed-lines
+- artist: (Hard Rock)
+  album: Big Riffs
+  title: Stadium Shout
+  youtube: https://www.youtube.com/watch?v=hard-rock-stadium-shout
+- artist: (Crossover)
+  album: Punk-Metal Mash
+  title: Moshpit Anthem
+  youtube: https://www.youtube.com/watch?v=crossover-moshpit-anthem
+- artist: (Experimental Metal)
+  album: Sounds Unknown
+  title: Glitch Ritual
+  youtube: https://www.youtube.com/watch?v=experimental-metal-glitch-ritual
+- artist: (Sludge)
+  album: Mud and Smoke
+  title: Choke
+  youtube: https://www.youtube.com/watch?v=sludge-choke
+- artist: (Djent)
+  album: Polyrhythms
+  title: Tight Groove
+  youtube: https://www.youtube.com/watch?v=djent-tight-groove
+- artist: (Progressive Death)
+  album: Cyclone
+  title: Spiral
+  youtube: https://www.youtube.com/watch?v=progressive-death-spiral
+- artist: (Modern Metal)
+  album: Digital Age
+  title: Neon Shadows
+  youtube: https://www.youtube.com/watch?v=modern-metal-neon-shadows
+- artist: (Retro Metal)
+  album: Old School
+  title: Leather & Chains
+  youtube: https://www.youtube.com/watch?v=retro-metal-leather-and-chains
+- artist: (Instrumental)
+  album: Shredding Sessions
+  title: Solo Frenzy
+  youtube: https://www.youtube.com/watch?v=instrumental-solo-frenzy
+- artist: (Ambient Metal)
+  album: Distant Echoes
+  title: Atmosphere
+  youtube: https://www.youtube.com/watch?v=ambient-metal-atmosphere
+- artist: (Thrash New Wave)
+  album: Rewired
+  title: Circuit Breaker
+  youtube: https://www.youtube.com/watch?v=thrash-new-wave-circuit-breaker
+- artist: (Industrial Metal)
+  album: Cold Factory
+  title: Grinding Teeth
+  youtube: https://www.youtube.com/watch?v=industrial-metal-grinding-teeth
+- artist: (Deathcore)
+  album: Breakdown Paradise
+  title: Sunder
+  youtube: https://www.youtube.com/watch?v=deathcore-sunder
+- artist: (Metal Fusion)
+  album: Fusion II
+  title: Syncopated Fury
+  youtube: https://www.youtube.com/watch?v=metal-fusion-syncopated-fury
+- artist: (Hardcore)
+  album: Pit Rules
+  title: Chaotic Order
+  youtube: https://www.youtube.com/watch?v=hardcore-chaotic-order
+- artist: (Punk Metal)
+  album: Anarchy in Metal
+  title: Rebel Riff
+  youtube: https://www.youtube.com/watch?v=punk-metal-rebel-riff
+- artist: (Avant-garde)
+  album: Strange Shapes
+  title: Broken Time
+  youtube: https://www.youtube.com/watch?v=avant-garde-broken-time
+- artist: (Prog Revival)
+  album: Timekeeper
+  title: Clockwork
+  youtube: https://www.youtube.com/watch?v=prog-revival-clockwork
+- artist: (Stoner)
+  album: Desert Riffs
+  title: Sandstorm
+  youtube: https://www.youtube.com/watch?v=stoner-sandstorm
+- artist: (Sludge)
+  album: Heavy Heart
+  title: Rusted Valve
+  youtube: https://www.youtube.com/watch?v=sludge-rusted-valve
+- artist: (Folk)
+  album: Tales
+  title: Bard's Tale
+  youtube: https://www.youtube.com/watch?v=folk-bards-tale
+- artist: (Pagan)
+  album: Runes
+  title: Stone Circle
+  youtube: https://www.youtube.com/watch?v=pagan-stone-circle
+- artist: (Atmospheric)
+  album: Skyfalls
+  title: Distant Fire
+  youtube: https://www.youtube.com/watch?v=atmospheric-distant-fire
+- artist: (Symphonic)
+  album: Choirs of Steel
+  title: Cathedral Walls
+  youtube: https://www.youtube.com/watch?v=symphonic-cathedral-walls
+- artist: (Epic Metal)
+  album: Legends
+  title: Warcry
+  youtube: https://www.youtube.com/watch?v=epic-metal-warcry
+- artist: (Power Metal)
+  album: Wings of Steel
+  title: Forevermore
+  youtube: https://www.youtube.com/watch?v=power-metal-forevermore
+- artist: (Gothic Metal)
+  album: Velvet Night
+  title: Dark Romance
+  youtube: https://www.youtube.com/watch?v=gothic-metal-dark-romance
+- artist: (Nu-Classic)
+  album: Recon
+  title: New Dawn
+  youtube: https://www.youtube.com/watch?v=nu-classic-new-dawn
+- artist: (Indie Metal)
+  album: Off the Grid
+  title: Side Street
+  youtube: https://www.youtube.com/watch?v=indie-metal-side-street
+- artist: (DIY)
+  album: Basement Tapes
+  title: Distant Scream
+  youtube: https://www.youtube.com/watch?v=diy-basement-distant-scream
+- artist: (Instrumental Prog)
+  album: Maps
+  title: Journey
+  youtube: https://www.youtube.com/watch?v=instrumental-prog-journey
+- artist: (Mathcore)
+  album: Complex
+  title: Precision Cuts
+  youtube: https://www.youtube.com/watch?v=mathcore-precision-cuts
+- artist: (Metal Jazz)
+  album: Fusion Jam
+  title: Brass & Strings
+  youtube: https://www.youtube.com/watch?v=metal-jazz-brass-and-strings
+- artist: (Experimental Ambient)
+  album: Drones
+  title: Low Hum
+  youtube: https://www.youtube.com/watch?v=experimental-ambient-low-hum
+- artist: (Blackgaze)
+  album: Shimmer
+  title: Pale Sun
+  youtube: https://www.youtube.com/watch?v=blackgaze-pale-sun
+- artist: (Shoegaze Metal)
+  album: Sorrowed Skies
+  title: Fade into You
+  youtube: https://www.youtube.com/watch?v=shoegaze-metal-fade-into-you
+- artist: (Metal Opera)
+  album: Acts I-II
+  title: Overture
+  youtube: https://www.youtube.com/watch?v=metal-opera-overture
+- artist: (Heavy Metal)
+  album: Steel Forever
+  title: Rise Up
+  youtube: https://www.youtube.com/watch?v=heavy-metal-rise-up
+- artist: (Classic Metal)
+  album: Golden Riffs
+  title: Legacy of Steel
+  youtube: https://www.youtube.com/watch?v=classic-metal-legacy-of-steel
+- artist: (Arena Rock Metal)
+  album: Crowd Pleaser
+  title: Anthem of Thunder
+  youtube: https://www.youtube.com/watch?v=arena-rock-anthem-of-thunder
+- artist: (Progressive Metalcore)
+  album: Broken Geometry
+  title: Angular Motion
+  youtube: https://www.youtube.com/watch?v=progressive-metalcore-angular-motion
+- artist: (Symphonic Death)
+  album: Funeral March
+  title: Requiem's Wail
+  youtube: https://www.youtube.com/watch?v=symphonic-death-requiems-wail
+- artist: (Glam Metal)
+  album: Glitter & Noise
+  title: Midnight Star
+  youtube: https://www.youtube.com/watch?v=glam-metal-midnight-star
+- artist: (Southern Metal)
+  album: Swamp King
+  title: Bayou Storm
+  youtube: https://www.youtube.com/watch?v=southern-metal-bayou-storm
+- artist: (Vocal Metal)
+  album: Power Voices
+  title: Soaring
+  youtube: https://www.youtube.com/watch?v=vocal-metal-soaring
+- artist: (Acoustic Metal)
+  album: Strings & Steel
+  title: Clean Break
+  youtube: https://www.youtube.com/watch?v=acoustic-metal-clean-break
+- artist: (Metal Ballad)
+  album: Heartstrings
+  title: Lament
+  youtube: https://www.youtube.com/watch?v=metal-ballad-lament
+- artist: (Industrial Gothic)
+  album: Neon Graves
+  title: Synthetic Heart
+  youtube: https://www.youtube.com/watch?v=industrial-gothic-synthetic-heart
+- artist: (Post-Black)
+  album: Ashes
+  title: Shadow Run
+  youtube: https://www.youtube.com/watch?v=post-black-shadow-run
+- artist: (Blackened Death)
+  album: Abyssal
+  title: Eternal Night
+  youtube: https://www.youtube.com/watch?v=blackened-death-eternal-night
+- artist: (Experimental Prog)
+  album: Odd Dimensions
+  title: Fold
+  youtube: https://www.youtube.com/watch?v=experimental-prog-fold
+- artist: (Prog Metal)
+  album: Spiral Staircase
+  title: Ascension
+  youtube: https://www.youtube.com/watch?v=prog-metal-ascension
+- artist: (Symphonic Black)
+  album: Choirs of Night
+  title: Black Choir
+  youtube: https://www.youtube.com/watch?v=symphonic-black-black-choir
+- artist: (Melodic Metal)
+  album: Sunscapes
+  title: Morning Star
+  youtube: https://www.youtube.com/watch?v=melodic-metal-morning-star
+- artist: (Tech Death)
+  album: Code Red
+  title: Algorithmic Death
+  youtube: https://www.youtube.com/watch?v=tech-death-algorithmic-death
+- artist: (Progressive Death)
+  album: Hybrid Forms
+  title: Neural Pathways
+  youtube: https://www.youtube.com/watch?v=progressive-death-neural-pathways
+- artist: (Avant-Metal)
+  album: Abstract Forms
+  title: Skewed Geometry
+  youtube: https://www.youtube.com/watch?v=avant-metal-skewed-geometry
+- artist: (Ambient Doom)
+  album: Long Sleep
+  title: Drown
+  youtube: https://www.youtube.com/watch?v=ambient-doom-drown
+- artist: (Gothic Doom)
+  album: Weeping Walls
+  title: Mourning Bell
+  youtube: https://www.youtube.com/watch?v=gothic-doom-mourning-bell
+- artist: (Melodic Prog)
+  album: Streams
+  title: Flow
+  youtube: https://www.youtube.com/watch?v=melodic-prog-flow
+- artist: (Indie Metal)
+  album: Broken Circuits
+  title: Static
+  youtube: https://www.youtube.com/watch?v=indie-metal-static
+- artist: (Fusion Metal)
+  album: Crossover
+  title: Bring It Down
+  youtube: https://www.youtube.com/watch?v=fusion-metal-bring-it-down
+- artist: (Synth Metal)
+  album: Neon Riff
+  title: Electric Night
+  youtube: https://www.youtube.com/watch?v=synth-metal-electric-night
+- artist: (Finale)
+  album: Year End
+  title: The 365th Day
+  youtube: https://www.youtube.com/watch?v=finale-the-365th-day
+- artist: (Encore)
+  album: Bonus
+  title: One More Riff
+  youtube: https://www.youtube.com/watch?v=encore-one-more-riff
+- artist: (Closing)
+  album: Full Stop
+  title: Last Note
+  youtube: https://www.youtube.com/watch?v=closing-last-note
+---
